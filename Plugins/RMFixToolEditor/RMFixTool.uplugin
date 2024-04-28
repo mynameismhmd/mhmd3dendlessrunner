@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 6,
+	"VersionName": "1.6",
+	"FriendlyName": "RM Fix Tool",
+	"Description": "RM Fix Tool",
+	"Category": "Animation",
+	"CreatedBy": "Attaku",
+	"CreatedByURL": "https://bitbucket.org/rmfixtool/rmfixtool",
+	"DocsURL": "",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/63784b32c0b44fe6ad5e814b52c8e75e",
+	"SupportURL": "",
+	"EngineVersion": "5.3.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "RMFixToolEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	]
+}
